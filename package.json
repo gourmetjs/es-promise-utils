@@ -1,0 +1,11 @@
+{
+  "name": "es-promise-utils",
+  "version": "1.0.0",
+  "description": "Collection of general purpose Promise utilities",
+  "author": "Max Jung <max@gourmetjs.com>",
+  "license": "MIT",
+  "repository": "https://github.com/gourmetjs/es-promise-utils",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
