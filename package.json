@@ -1,6 +1,6 @@
 {
   "name": "es-promise-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of general purpose Promise utilities",
   "author": "Max Jung <max@gourmetjs.com>",
   "license": "MIT",
